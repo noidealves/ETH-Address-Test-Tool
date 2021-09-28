@@ -1,0 +1,10 @@
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\bin\Debug\ETH Address Test Tool.exe.config
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\bin\Debug\ETH Address Test Tool.exe
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\bin\Debug\ETH Address Test Tool.pdb
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH_Address_Test_Tool.Form1.resources
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH_Address_Test_Tool.Properties.Resources.resources
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH Address Test Tool.csproj.GenerateResource.cache
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH Address Test Tool.csproj.CoreCompileInputs.cache
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH Address Test Tool.exe
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH Address Test Tool.pdb
+C:\Users\PC Escritório\source\repos\ETH Address Test Tool\obj\Debug\ETH Address Test Tool.csprojAssemblyReference.cache
